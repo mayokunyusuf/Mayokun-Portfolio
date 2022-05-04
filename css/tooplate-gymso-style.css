@@ -473,6 +473,13 @@ https://www.tooplate.com/view/2119-gymso-fitness
     padding: 1rem;
   }
 
+   /*---------------------------------------
+      PUBLICATION          
+  -----------------------------------------*/
+
+  .publication {
+    background: var(--about-bg-color);
+  }
 
   /*---------------------------------------
       ABOUT & TEAM            
